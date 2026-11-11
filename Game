@@ -1,0 +1,576 @@
+<!doctype html>
+<html lang="en"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261111-05-c0994bc","C":{"ABeeZee":"YADK31-VBBc,1","Abel":"YAHO2Ehol3g,0","Abhaya Libre":"YAFdJvwa-l0,0","Abril Fatface":"YACgEZbkUVE,0","Aclonica":"YAHO2OEKYj0,0","Acme":"YAHO2Gflqzo,0","Actor":"YAHO2N0IV_4,0","Adamina":"YAHO2Ko8ddg,0","Advent Pro":"YAFdJvNZdCk,0","Afacad":"YAHO2HaK_fU,0","Afacad Flux":"YAHO2DjbA6Y,0","Agrandir":"YAFdJpYuLss,0","Aileron":"YAFdJn5d8s0,0","Akshar":"YAGWNF0jApg,0","Alata":"YAD1aLikJo8,0","Albert Sans":"YAHO2HRfeh4,0","Alegreya":"YAFdJs07v-8,0","Alegreya Sans":"YAFdJvgJ5TU,0","Alegreya Sans SC":"YAFdJuaTEaM,0","Alegreya SC":"YACgEen8jXo,0","Aleo":"YAFdJg_txOU,0","Alex Brush":"YAE2gr0Mbng,0","Alexandria":"YAGVt-AWBcU,0","Alfa Slab One":"YACgEYS9sJU,0","Alice":"YALBszUSD-E,0","Allison":"YAG5KfE49h8,0","Allura":"YACgEap1YR0,0","Almarai":"YAFdJuZe0mI,0","Almendra":"YAHO2Dyhotk,0","Alumni Sans":"YAHO2DByoho,0","Amaranth":"YACgEaBTFMQ,0","Amatic SC":"YACgEbSBm0k,0","Amiri":"YAEWgjWFb1M,0","Amiri Quran":"YAHO2Enz6cg,0","Amita":"YADK309xYYo,1","Andika":"YACkoFAye4w,0","Anek Bangla":"YAGVuloYrvI,0","Anek Gujarati":"YAHO2NTD_LM,0","Anek Latin":"YAHO2C6lVnU,0","Anek Telugu":"YAHO2KVu8lI,0","Angsana New":"YAFcflTHDNQ,0","Anonymous Pro":"YACgEV9owk4,0","Antic Slab":"YAHO2HJeTP0,0","Anton":"YACgEcYqQ-A,0","Antonio":"YAFdJjZxcpY,0","Anuphan":"YAHO2IhZ4E0,0","Anybody":"YAHO2MTsics,0","Aptos":"YAGi2jFvvq4,1","Arapey":"YADK32AK2Uk,1","Architects Daughter":"YACgEc9BFCs,0","Archive":"YAD0s3O1iG4,1","Archivo":"YAHO2-t-jNE,0","Archivo Black":"YACgEZulLoA,0","Archivo Narrow":"YACgEa-oJH8,0","Aref Ruqaa":"YAHO2NMqGdM,0","Arial":"YAGyDvJ_4Ts,0","Arimo":"YACgEZ1cb1Q,0","Arsenal":"YADK3_DWcOc,0","Arsenal SC":"YAHO2BfKrb0,0","Arvo":"YACgEf17hXM,0","Asap":"YAFdJr0OaFw,0","Asap Condensed":"YAD1fmY3NpE,0","Assistant":"YAFdtfahXt8,0","Atkinson Hyperlegible":"YAFge7Z-F6s,0","Atkinson Hyperlegible Next":"YAHO2IeQVB0,0","Audiowide":"YAHO2MsoafU,0","Avenir":"YAFcfmNq6UY,0","Azeret Mono":"YAHO2EIdDP0,0","B612":"YAD1b-1Hfc8,0","Bacasime Antique":"YAHO2JjJq4o,0","Bad Script":"YADK31ojH6A,1","Bagel Fat One":"YAFyG3A11Bw,0","Bai Jamjuree":"YAFdJjI5olU,0","Ballet":"YAGXhJ7-dYY,0","Baloo 2":"YAHO2IcQUcM,0","Baloo Bhaijaan 2":"YAHO2NwTj3Y,0","Baloo Da 2":"YAHO2LicHPY,0","Balsamiq Sans":"YAE3C_w4eo8,0","Bangers":"YAD5qTdjGKo,1","Barlow":"YAFdJsyuOPM,1","Barlow Condensed":"YAFdJljEuFc,0","Barlow Semi Condensed":"YAFdJu55qXI,0","Baskervville":"YAHO2JTYNKo,0","Beau Rivage":"YAHO2NDDGu0,0","Bebas Neue":"YACgESME5ew,0","Belanosima":"YAHO2KW8vyU,0","Bellefair":"YADSJ8TFXwA,0","Belleza":"YADK3w_fTc4,0","BenchNine":"YAHO2Gl7yMc,0","Berkshire Swash":"YACgEa7uPMI,0","Besley":"YAHO2BTXWYc,0","Beth Ellen":"YAD1b5m4a2U,0","Bevan":"YACkoDaMIbc,0","Big Shoulders Display":"YAFdJs8L2aw,0","BioRhyme":"YAHO2OnVvkA,0","Birthstone":"YAGXhLyeE6I,0","Biryani":"YAFdtZ_PRAs,0","Bitter":"YACkoOF0Xck,0","BIZ UDPGothic":"YAGWY3VAK4Q,0","Black Mango":"YAFdJkJYP7I,1","Black Ops One":"YACgEaY4FIU,0","Blinker":"YAFdJoBYX9o,0","Bodoni Moda":"YAHO2C7VUJE,0","Boogaloo":"YAHO2MTwH5g,0","Borel":"YAFyL1DOvfo,0","Bowlby One":"YAHO2EunPos,0","Bowlby One SC":"YAHO2J38FUs,0","Brake":"YAECFhPpDI8,0","Bree Serif":"YACkoD1yZN0,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Brightwall":"YAEl49DnZBU,0","Bubblegum Sans":"YAHO2JdFc_U,0","Bungee":"YALBszL9wLA,0","Bungee Shade":"YACkoPYyrRk,0","Cabin":"YAFdJnEgsb0,0","Cabin Condensed":"YAHO2F-FVVw,0","Cairo":"YAFdtXpDzlQ,0","Caladea":"YAD1hHx0kVU,0","Calibri":"YAFcfhdOoGk,0","Calistoga":"YAD1aIFxe3I,1","Cambria":"YAFcfgNlM2Y,0","Cantarell":"YAHO2LSCGX4,0","Canva Sans":"YAFdJjTk5UU,1","Canva Sans Display":"YAFTjyMT8Hc,0","Caprasimo":"YAHO2PYTkbo,0","Capriola":"YALBs4liG7k,0","Cardo":"YACkoGIT9qo,0","Carlito":"YACkoIZXsrc,0","Carter One":"YACgEZJ1Flw,0","Castoro":"YAHO2cDcmVM,0","Catamaran":"YAFdJhPTLAc,0","Caveat":"YALBs2ploWQ,0","Caveat Brush":"YALBs8ZVRhw,0","Cedarville Cursive":"YAHO2UrHGFQ,0","Chakra Petch":"YAD1fCkY3IQ,0","Changa":"YAFdJtbG8fw,0","Changa One":"YAHO2WdsbtM,0","Chango":"YADK37RW0po,0","Charis SIL":"YAGvf-G3GGU,0","Charm":"YAD1b_s4o-w,0","Chelsea Market":"YAHO2UOd5sY,0","Cherry Bomb One":"YAFyMfi5fyQ,0","Chewy":"YACgEZfALnA,0","Chivo":"YAHO2WvGfDs,0","Chivo Mono":"YAHO2Qd3y5g,0","Chonburi":"YALBsz_RTwU,0","Cinzel":"YACgEeV8bIQ,0","Cinzel Decorative":"YAEe9XbWpNs,0","Circe":"YAEw10H5958,0","Clear Sans":"YAFdJoLIdPI,0","Climate Crisis":"YAFdJnbiwgQ,0","Cocomat Pro":"YAFdJu9rg-E,0","Coiny":"YACkoOrpjtg,0","Comfortaa":"YAFdJoWmhxU,0","Comic Neue":"YAHO2VMiyZo,0","Coming Soon":"YACgEQDqBLk,0","Commissioner":"YAHO2RRI-KE,0","Concert One":"YAFyG1vOkaw,0","Consolas":"YAFcfu6YYdE,0","Cookie":"YAHO2TxA9Mk,0","Corben":"YADK3waYnkQ,2","Cormorant Garamond":"YAFdJhX-538,0","Cormorant Infant":"YAHO2cgbXjc,0","Cormorant SC":"YAFdJg7KuRM,0","Cormorant Unicase":"YAHO2b4ohVo,0","Courgette":"YACgEU5nS9M,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","Cousine":"YADK35VyDYU,0","Crete Round":"YAHO2Uu9SvI,0","Crimson Pro":"YAFdJsEGkW0,0","Crimson Text":"YAHO2RsfBzg,0","Cuprum":"YACkoB3fESg,0","Cutive Mono":"YAHO2cov6H4,0","Damion":"YAHO2SxDErM,0","Dancing Script":"YALBs2pfuW0,0","Darker Grotesque":"YAD1acp_tgc,1","DejaVu Sans":"YAFdtfpl0Yc,0","Delius":"YAHO2f1B8B4,0","Dhurjati":"YAHO2RElIME,0","Didact Gothic":"YALBs-mIj2o,0","DM Mono":"YAHO2SGpw0w,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Domine":"YAHO2bbCOA4,0","Dongle":"YAGXDU1dmuc,0","Doppio One":"YAHO2ckhWaI,0","Dosis":"YAFdte3F-n0,1","DotGothic16":"YAHO2fxQNHM,0","DynaPuff":"YAFyMRnxBDs,0","East Sea Dokdo":"YAHO2V39uyM,0","Eater":"YAHO2VpLF0c,0","EB Garamond":"YAFdJtfMD6Y,0","Economica":"YACgEeIOo5w,0","Eczar":"YAFdJrnVElk,0","Edo":"YADoUIDNzaE,1","El Messiri":"YAFdJoZarj8,0","Encode Sans":"YAHO2R-vLyo,0","Encode Sans Condensed":"YAHO2RQWhbg,0","Epilogue":"YAHO2WWHRqI,0","Exo":"YAHO2c15ncY,0","Exo 2":"YAFdJor4M6A,1","Faculty Glyphic":"YAHO2ZuH1NQ,0","Fahkwang":"YAFdJp0SJos,0","Familjen Grotesk":"YAHO2ZriIzU,0","Faustina":"YAFdJnqy8Oc,0","Figtree":"YAHO2b-mV7A,0","Fira Code":"YAFdJsxBlTg,0","Fira Mono":"YAHO2bTKfjg,0","Fira Sans":"YAFdJnJKOPE,0","Fira Sans Condensed":"YAHMLJN-FcA,0","Fira Sans Extra Condensed":"YAHMLGqUb6Q,0","Fjalla One":"YAHO2VMyTKw,0","Fondamento":"YAHO2X_okmA,0","Forum":"YACgEcnnqB4,0","Fragment Mono":"YAHO2ZlYXZc,0","Francois One":"YADK3zbC6RM,0","Frank Ruhl Libre":"YAFdJiGIKxQ,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Frutiger":"YAFcf7IGSfk,0","Fugaz One":"YAHO2f5L5K0,0","Funnel Display":"YAHO2TmVuEs,0","Funnel Sans":"YAHO2R0FK5U,0","Futura":"YAFcfgcNhWk,3","Gabarito":"YAHO2cD3JmI,0","Gaegu":"YAFdJj615Ls,0","Gamja Flower":"YADK39n_eyc,0","Gantari":"YAHO2WveuBo,0","Garamond":"YAFcfhlhK9c,0","Gasoek One":"YAFyMaznfGo,0","Geist":"YAHO2SfKS30,0","Geist Mono":"YAHO2XOe8v8,0","Gelasio":"YAHO2e426-k,0","Gentium Book Plus":"YAHO2b-adyU,0","Geologica":"YAHMLpZ3y5c,0","Geom":"YAHMLFz7unQ,0","Georama":"YAHO21l9KR8,0","Georgia":"YAGzXkO0pEM,0","GFS Didot":"YADK39vXpyU,0","Gilda Display":"YADK34sD2QM,0","Gill Sans":"YAFcfnt9wqI,0","Gilroy":"YAFcf0f10mQ,0","Glacial Indifference":"YACgETiWKS8,0","Gloock":"YAHO2WVhd0Q,0","Gloria Hallelujah":"YALBs50JjRs,0","Gochi Hand":"YACgEWWPgRQ,0","Golden Hopes":"YAHNdVsGdn0,0","Goldman":"YAHO2TATES8,0","Golos Text":"YAHO2QlqAQk,0","Google Sans":"YAHO2dYZ4Uw,0","Google Sans Code":"YAHO2XdQwlA,0","Google Sans Flex":"YAHO2e8mtck,0","Gotham":"YAFcfr0ZwUA,0","Gotu":"YAEZNa_UrWs,0","Goudy Bookletter 1911":"YAHO2X7CqQQ,0","Gowun Batang":"YAGXDQtk-ic,0","Gowun Dodum":"YAGXDZ921io,0","Graduate":"YACgEajwz7Y,0","Grandstander":"YAHO2bN2hd8,0","Gravitas One":"YAHO2WtqHRw,0","Great Vibes":"YACgEX27qLg,0","Grenze":"YAFdJpFWOZM,0","Grenze Gotisch":"YAHO2fI_o94,0","Gruppo":"YACgEbcz8MU,0","Gudea":"YAHO2WlVs30,0","Hahmlet":"YAGXDTqs4Ac,0","Hammersmith One":"YACgEWNFnT4,0","Handlee":"YAHO2U9C-xI,0","Hanken Grotesk":"YAHO2VB9G0I,0","Heebo":"YAFdJqqaebw,0","Helvetica":"YAFcf7zkXN0,0","Henny Penny":"YAHO2dlXoyw,0","Hepta Slab":"YAHO2TWtyXA,0","Hind Guntur":"YAFdJq1FbIc,0","Hind Madurai":"YAFdJtsMgQk,0","Hind Siliguri":"YAFdJodBWQk,0","Hind Vadodara":"YAFdJrnuAas,0","HK Grotesk":"YAFdJsjyMsM,0","Homemade Apple":"YADK3zBTjLs,0","Host Grotesk":"YAHO2VztvdY,0","Hubot Sans":"YAHO2cDVt0E,0","Huninn":"YAHO2dG1YxU,0","Ibarra Real Nova":"YAD1aDS1Jq8,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","IBM Plex Sans Arabic":"YAGVuEYCNg0,1","IBM Plex Sans Condensed":"YAFdJrPBof8,0","IBM Plex Sans JP":"YAGWY6rvaqo,0","IBM Plex Sans KR":"YAGXDbUrwEo,0","IBM Plex Sans Thai":"YAFdJkdZC28,0","IBM Plex Serif":"YAFdJt16xgA,0","IM Fell English":"YAHO2QB0QVo,0","IM Fell English SC":"YACgERmrc6I,0","IM Fell French Canon":"YAHO2bMvABs,0","Impact":"YAFcfnjI7Vk,0","Inclusive Sans":"YAGzRvSP2H0,0","Inconsolata":"YAHO2SpO-5g,0","Indie Flower":"YAHO2aaUih8,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Inter Tight":"YAHO2Wv04Hw,0","Istok Web":"YAHO2XNFLkI,0","Italiana":"YAHO2Toik_w,0","Italianno":"YADK33wZXP4,1","Itim":"YAE0Z3ly4AQ,0","Jacques Francois":"YAHO2a5g66Q,0","Jersey 10":"YAHO2QXCPBA,0","Jersey 25":"YAHO2b0HdSo,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Josefin Slab":"YACgEQmaEIc,0","Jost":"YAHO2TSelXg,0","Jua":"YADK3-gZSDU,0","Judson":"YAHO2Te3_As,0","Julius Sans One":"YACgET-7cBI,0","Jura":"YAFdJmtyccY,0","Kaisei Decol":"YAGWY5xJxfk,0","Kalam":"YAFdJrEg2ic,0","Kanit":"YAHO2TvSf7E,0","Kantumruy Pro":"YAHO2SVqwqY,0","Karantina":"YAHO2TVXfmM,0","Karla":"YAHO2V2NSXM,0","Kaushan Script":"YACgEbGmrJs,0","Khand":"YAFdJm18w3g,0","Khula":"YAFdJvaOkWI,0","Kiwi Maru":"YAFdJmm1njU,0","Klee One":"YAHO2dadxts,0","Knewave":"YACgEYSBEEA,0","Kodchasan":"YAFdJmfmzeo,0","Kosugi Maru":"YAEhL82apSM,0","Krona One":"YAHO2byEKN4,0","Krub":"YAFdJl9ACwk,0","Kulim Park":"YAHO2VNx1jc,0","Kumbh Sans":"YAHO2UjzjpM,0","La Belle Aurore":"YAHO2QKdLHU,0","Lalezar":"YACkoB188Y0,0","Lato":"YAFdJuFCnaw,0","League Gothic":"YACgEZ1OEPI,0","League Spartan":"YACgEcnJpjs,0","Leckerli One":"YAGX4ddZAAg,0","Lemonada":"YAFdtQVfQCk,0","Lexend":"YAHO2SCkHoU,0","Lexend Deca":"YAD9UdTHECk,0","Lexend Exa":"YAD9UUZHL7I,0","Lexend Giga":"YAD9UYAqrOc,0","Lexend Mega":"YAD9UdrjgZw,0","Lexend Zetta":"YAD9UYrErMw,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Bodoni":"YAHO2fbN094,0","Libre Caslon Display":"YAHO2XhLmt0,0","Libre Caslon Text":"YAHO2USylHk,0","Libre Franklin":"YAFdJr3SNlU,1","Lilita One":"YACgEblklxo,0","Limelight":"YACgEUpkTXE,0","LINE Seed JP":"YAHO2d8yXa4,0","Literata":"YAD1b0SpOHQ,0","Literaturnaya":"YAEw2PHBjL0,0","Livvic":"YAFdJiLU_Ko,0","Lobster":"YAD8SnSjSFI,0","Lobster Two":"YACgEesdoec,0","Londrina Solid":"YAFdJnyMeQE,0","Lora":"YACgEXvxf8Q,0","Love Ya Like A Sister":"YAHO2WqclmE,0","Lucida Console":"YAFcfpZCfh8,0","Luckiest Guy":"YADK4PnlFRs,0","Lusitana":"YAHO2SveFfM,0","LXGW WenKai TC":"YAHO2ehQ5_o,0","M PLUS 1p":"YAHO2fozO7I,0","M PLUS 2":"YAHO2RUGZcQ,0","Ma Shan Zheng":"YAD1b3yES34,0","Mada":"YAFd-HxC1Y0,0","Maitree":"YAFdJh4v5pY,0","Mali":"YAFdJh7OuNE,0","Manrope":"YAHO2b2feC4,0","Mansalva":"YAD1aZCCYU8,1","Marcellus":"YADK4L2nGbg,0","Marck Script":"YALBs9DBETo,0","Marhey":"YAGVt3FsiJE,0","Martel":"YAFdtY7FRH8,1","Martian Mono":"YAHO2YhUMkk,0","Mate":"YAHO2eaPuMk,0","Maven Pro":"YAFdJgCyb_c,0","Mea Culpa":"YAHO2UQx4WU,0","MedievalSharp":"YAHO2XoH9qQ,0","Megrim":"YACgEQu0pLY,0","Meiryo":"YAGmJPEz0BM,0","Merienda":"YAGXhISLJkY,0","Merriweather":"YACgEXvHxxs,0","Merriweather Sans":"YAFdJorZgto,1","Michroma":"YADK4IYX8vY,0","Miriam Libre":"YADK4A2U8KA,0","Mitr":"YAFdJh-DKf0,0","Mona Sans":"YAHO2XGz2BM,0","Monda":"YADK34lACd0,1","Monoton":"YALBs_hWWG8,0","Mont":"YAFdJgul-2U,0","Montserrat":"YAFdtQi73Xs,0","Montserrat Alternates":"YAHO2d5URdI,0","Monument":"YAFdJgp7PFE,0","Mooli":"YAHO2QudnvU,0","More Sugar":"YAFdJkVWBPo,1","Moul":"YADK4IOwXpw,0","Mountains of Christmas":"YAHO2f6R-YA,0","Mr Dafoe":"YACgEbw4BXM,0","Mrs Saint Delafield":"YAHO2Tnt53k,0","Ms Madi":"YAHO2SBc4rI,0","Mukta":"YAFdJjsZaSM,0","Muli":"YAFdtZAC0Mk,0","Mulish":"YAHO28rytyw,0","Nanum Myeongjo":"YAFdJqiu4VY,0","Neucha":"YAEkTBQffFg,0","Neuton":"YAFdtcDBvdA,0","New Rocker":"YAHO2YI8rWg,0","News Cycle":"YACkoEMGWek,0","Nixie One":"YACgEUtNgZc,0","Nothing You Could Do":"YAHO2WqRm_c,0","Noticia Text":"YACkoDm0xlE,0","Noto Color Emoji":"YAGumpcTCok,0","Noto Kufi Arabic":"YACkoGW2dTA,0","Noto Naskh Arabic":"YACkoI8Oj1c,0","Noto Nastaliq Urdu":"YAGU_Q5u0w4,0","Noto Sans":"YACkoCjjZNk,0","Noto Sans Armenian":"YACkoI5u7HA,0","Noto Sans Bengali":"YAFdJjnhMdI,0","Noto Sans Canadian Aboriginal":"YAHK3L_wQZM,0","Noto Sans Display":"YAHO2eyZBeY,0","Noto Sans Ethiopic":"YAHO20DfUMM,0","Noto Sans Georgian":"YACkoFKxqWs,0","Noto Sans Gujarati":"YACkoEDaawU,0","Noto Sans HK":"YAHO2fCytzw,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans Kannada":"YACkoIujelo,0","Noto Sans Khmer":"YACkoFdRIJM,0","Noto Sans KR":"YAGsojZj-RQ,0","Noto Sans Lao":"YAHO2f6jVpw,0","Noto Sans Lao Looped":"YAHO2TSQjpA,0","Noto Sans Malayalam":"YACkoMzSo98,0","Noto Sans Mono":"YAHO2TFVtN0,0","Noto Sans Myanmar":"YACkoPHEdMk,0","Noto Sans Oriya":"YAHO2TmiA1I,0","Noto Sans SC":"YAHO2hDCDFM,0","Noto Sans Sinhala":"YACkoJiU_Ak,0","Noto Sans Symbols":"YAHO2n0Zh0w,0","Noto Sans Tamil":"YAHO2r9jkew,0","Noto Sans TC":"YAHO2pzGHBE,0","Noto Sans Telugu":"YAHO2uFAQs4,0","Noto Serif":"YACkoGNq-XY,0","Noto Serif Bengali":"YAGVuu_j8c8,0","Noto Serif Devanagari":"YAGWNWUpY9s,0","Noto Serif Display":"YAFdJllHsUM,0","Numans":"YAHO2nkeXPA,0","Nunito":"YAFdJoNRMmU,1","Nunito Sans":"YAFdtQJYB9w,1","Old Standard TT":"YAHO2lhtDcg,0","Oleo Script":"YACgEQQ14jI,0","Onest":"YAHO2kaArOY,0","Open Sans":"YAFdJt8dAY0,1","Open Sans Condensed":"YAD7Rf0lmm4,1","Open Sans Hebrew":"YAFdJlARYMY,0","Optima":"YAFcf0Fltlg,0","Oranienbaum":"YALBs0MvhmA,0","Orbit":"YAFyMQm0Z54,0","Orbitron":"YAHO2tXXH_o,0","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Overpass":"YAFdJhmdIMM,1","Oxanium":"YAHO2kINDn0,0","Oxygen":"YAHO2nOU31A,0","Pacifico":"YADLjORQ1u4,0","Padauk":"YACkoMjU4UU,0","Palatino":"YAGLy64uiS8,4","Pangolin":"YADK4DH4-fM,0","Parisienne":"YACgERSYqTw,0","Parkinsans":"YAHO2j-ZSEo,0","Passion One":"YAFdJo9cFec,0","Pathway Gothic One":"YACkoMQo7Mc,0","Patrick Hand":"YAHO2swKcgg,0","Patua One":"YAHO2qRZWLE,0","Paytone One":"YALBs8J6By4,0","Perandory SemiCondensed":"YAFJsrsM0TY,0","Permanent Marker":"YACgEcB-r-s,0","Petrona":"YADK4PUbnVg,1","Philosopher":"YAEkTCvkg7Q,0","Pinyon Script":"YACgEQzTJgs,0","Pirata One":"YALBs3j2Xx0,0","Pixelify Sans":"YAHO2v5ARTA,0","Play":"YADK4EFto8o,0","Playball":"YAHO2hWLQJ0,0","Playfair Display":"YAFdJhem5V8,1","Playfair Display SC":"YACgESE7eJQ,0","Playpen Sans":"YAGLNo9uX4s,1","Playwrite VN":"YAHO2_bSM7Y,0","Plus Jakarta Sans":"YAHO2gdhi18,0","Poiret One":"YAHO2nweLas,0","Pontano Sans":"YAHO2t91rWw,0","Poppins":"YAFdJjbTu24,1","Prata":"YACgES4qGnk,0","Press Start 2P":"YAFyGr-8pmQ,0","Pridi":"YAFdJmJ3gqA,0","Prompt":"YAFdJmA6sOY,0","Proxima Nova":"YAFcfjveRFU,0","Proxima Nova Condensed":"YAFcfiSm_SA,0","Proza Libre":"YAHO2nv0NKc,0","PT Mono":"YAHO2lnK_7w,0","PT Sans":"YACgEYbsV-E,0","PT Sans Caption":"YAHO2oZpTQc,0","PT Sans Narrow":"YAHO2glZymI,0","PT Serif":"YACgEcU7Qg4,0","Public Sans":"YAFdJj8NdaU,1","Pyidaungsu":"YACkoGGC7sA,0","Quantico":"YAHO2me4bVc,0","Quattrocento":"YACgEcL5b3s,0","Quattrocento Sans":"YAHO2vuaC0Y,0","Questrial":"YADK4LSvvyE,1","Quicksand":"YAFdJpYtCxE,1","Racing Sans One":"YACgEbcqMPM,0","Radio Canada":"YAHO2qxyljs,0","Radio Canada Big":"YAHO2r7P8wg,0","Rajdhani":"YAFdJoWaWgo,0","Raleway":"YAFdJhmxbVQ,1","Ramabhadra":"YACkoN_hhSs,0","Rammetto One":"YAHO2nAqWuQ,0","Rasa":"YAFdJg-9rGY,0","Readex Pro":"YAGVt3RBO3c,0","Recursive":"YAHO2oZn01g,0","Red Hat Display":"YAD1bzs0p0Y,0","Red Hat Mono":"YAHO2gB0kV8,0","Red Hat Text":"YAHO21kkNWg,0","Reddit Sans":"YAHO2kKAR-8,0","Reem Kufi":"YADSJ0ceOYQ,0","Reenie Beanie":"YAHO2s4qTnk,0","Rethink Sans":"YAHO2q9_FzY,0","Righteous":"YAHO2oo4-So,0","Roboto":"YACgEev4gKc,0","Roboto Condensed":"YACgEan-tYE,0","Roboto Flex":"YAHO2nqK4E8,0","Roboto Mono":"YAFdJkvp3-k,0","Roboto Slab":"YAFdJswIKAg,0","Rock Salt":"YAHO2vFSVxE,0","Rockwell":"YAFcfyVZnN0,0","Rokkitt":"YAFdJnlBl3o,0","Ropa Sans":"YACkoCA_LhY,0","Rowdies":"YAFyL2wl4FI,0","Rozha One":"YACkoMIfZVA,0","Rubik":"YAFdJsMWVVc,0","Rubik Dirt":"YAFyHRD_ZDY,0","Rubik Mono One":"YAHO2qtMuC0,0","Rubik Wet Paint":"YAHO2mLD_X0,0","Ruda":"YAFdJuuBNyM,1","Rufina":"YADK4FKO8Lg,0","Rye":"YACgEdQP21k,0","Sacramento":"YACgEf5ivwU,0","Saira":"YAFdJk33d3s,0","Saira Condensed":"YAFdJuBuAxg,0","Saira Extra Condensed":"YAFdJiQUvWc,0","Saira Semi Condensed":"YAHO2gfd5g8,0","Saira Stencil One":"YAD1aV1l2HE,0","Sanchez":"YACgEbBJLy8,0","Sarabun":"YAFdJssSnME,0","Sarala":"YADK4LF5xeY,0","Satisfy":"YACgEf5XTk0,0","Sawarabi Mincho":"YAD1faq7yjk,0","Scheherazade New":"YAHO2sxcjiY,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe Script":"YAF3uTF1s5I,0","Segoe UI":"YAHNdRD1Klw,0","Sen":"YAHO2h5vrRE,0","Shadows Into Light":"YAHO2tztN1k,0","Shantell Sans":"YAFyGytbxDc,0","Share Tech":"YAHO2q4NPs0,0","Share Tech Mono":"YAHO2oHio98,0","Shippori Mincho":"YAGWZNRJkO8,0","Shippori Mincho B1":"YAGWZJnXF8c,0","Shrikhand":"YACkoEA0Kc0,0","Signika":"YACgEfiK7GI,0","Signika Negative":"YAHO2rWYEng,0","Silkscreen":"YAHO2rdlQ_o,0","Sintony":"YAHO2kIBPTg,0","Skranji":"YAHO2uPivlQ,0","Slabo 13px":"YAHO2hvaP1I,0","Slabo 27px":"YAHO2n--yeE,0","Smooch Sans":"YAHO2tPdb20,0","Snell Roundhand":"YAFcf-RMpoo,0","Sniglet":"YACgEUJSCy8,0","Sofia":"YAHO2kq3qHg,0","Sofia Sans":"YAHMLUINeco,0","Sofia Sans Condensed":"YAHMLQmSo-Y,0","Sofia Sans Extra Condensed":"YAHMLV0fp0c,0","Solway":"YAD1fewp_mA,3","Sora":"YAHO2rDTR1E,0","Sorts Mill Goudy":"YADK4Fi0R2c,0","Source Code Pro":"YAHO2tzIJbg,0","Source Sans 3":"YAG4lO1Mj10,0","Source Sans Pro":"YACgEQzTv38,0","Source Serif Pro":"YACgEfdj394,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Special Elite":"YACgEYVlm9Q,0","Special Gothic Expanded One":"YAHO2oaS0m0,0","Spectral":"YAHO2rVUHIM,0","Spectral SC":"YAHO2gamQtc,0","Spline Sans":"YAHO2rZC9CE,0","Squada One":"YADK4PDlAAM,0","Sriracha":"YALBs4sJbXs,0","Staatliches":"YAD1bzJCL-s,0","Stardos Stencil":"YADK4Mu_Xj0,1","STIX Two Text":"YAHO2joycuk,0","Style Script":"YAGLy2PgdK0,0","Sue Ellen Francisco":"YADK4OIbCxo,0","Suez One":"YACkoJMi7_c,0","Sunflower":"YAFdJtJhp3I,1","Syncopate":"YAHO2iXpgDY,0","Syne":"YAHML9oLRPc,0","Tahoma":"YAFcfipOFgg,0","Tajawal":"YAFdJg45t1g,0","Tangerine":"YADK4L8oUVI,0","TASA Orbiter":"YAHO2umh_2o,0","Taviraj":"YAFdJjquxqU,0","Teko":"YAFdJsF6lbU,0","Tektur":"YAHMLdkk1tM,0","Tenor Sans":"YACgEVY5j_w,0","TikTok Sans":"YAHO2of1C4s,0","Tilt Warp":"YAHO2uqld84,0","Times":"YAGzXW3gftg,0","Times New Roman":"YAGzXW3gftg,0","Tinos":"YACkoJyNZF4,0","Tiro Bangla":"YAGVuiG7jnE,0","Tiro Devanagari Hindi":"YAGWNCjUq0o,0","Tiro Devanagari Sanskrit":"YAGWNHzN1is,0","Titan One":"YAHO2v8eA3A,0","Titillium Web":"YAFdtTOE9xo,0","Tomorrow":"YAFdJlW65k4,0","Traditional Arabic":"YAGLszSchGc,0","Trebuchet MS":"YAFcfrglpVA,0","Trocchi":"YACgEV-yq04,0","TT Backwards Script":"YAEnTERS7-o,0","Turret Road":"YAHO2pKQLYQ,0","Ubuntu":"YACgERDU--Q,0","Ubuntu Condensed":"YAHO2nCaahY,0","Ubuntu Mono":"YAHO2g6B-Uo,0","Ubuntu Sans":"YAHO2kypvWc,0","Ultra":"YACgEWHSPx0,0","Unbounded":"YAHO2rkdmWY,0","Uncial Antiqua":"YAHO2gmfDAs,0","Unica One":"YALBs74Pdjc,0","UnifrakturCook":"YAHO2srzKxY,0","UnifrakturMaguntia":"YACgEZRHDPA,0","Unna":"YADK4PtOh7E,0","Urbanist":"YAHO2o1IFy0,0","Varela":"YAHO2gPi4IU,0","Varela Round":"YALBs2IK6rw,0","Vazirmatn":"YAHO2z1lH5c,0","Verdana":"YAGzXTctYtQ,0","Vidaloka":"YACgEdRnAX0,0","Viga":"YAHO2v8Lzbg,0","Volkhov":"YAHO2uWq-qg,0","Vollkorn":"YAFdJli9wSA,0","VT323":"YACgEYI9BCI,0","Walter Turncoat":"YADK4Mm5Elo,0","WindSong":"YAGXhGUyKSQ,0","Wix Madefor Display":"YAHO2o-Qfis,0","Wix Madefor Text":"YAHO2rU16Qc,0","Work Sans":"YAGXhLOKv44,0","Yanone Kaffeesatz":"YAFdtbpuM0E,0","Yantramanav":"YAFdJuZAcfY,0","Yatra One":"YACkoJ228Ho,0","Yellowtail":"YACgEYG4kG4,0","Yeseva One":"YALBs4GWnJw,0","Yesteryear":"YALBs99Qer0,0","Ysabeau":"YAHMLjcdG48,0","Ysabeau Office":"YAHO2uUYDYI,0","Yuji Boku":"YAFGHcN5e_Y,0","Yusei Magic":"YAEhL8RNAMk,0","Zain":"YAHO2lC1Xkw,0","Zalando Sans":"YAHO2k5OK-M,0","Zalando Sans Expanded":"YAHO2h6OPds,0","Zen Kaku Gothic Antique":"YAHO2u8F_xk,0","Zen Kaku Gothic New":"YAHO2tS_yps,0","Zen Maru Gothic":"YAFdJgMrcdw,0","Zen Old Mincho":"YAHO2tMwaEs,0","Zeyada":"YAHO2lP62P0,0","Zilla Slab":"YAFdJpPotmI,0"}}');</script><script src="/_sdk/57e4e8fcf2dffb4b.telemetry_sdk.js" integrity="sha512-tv1Sz/AB6ao/IZ9DHRSu4SNB4EZ38woHzupwg3oRe4DEXvqh7zD0+csVKIT7x4Faf2+81Slx3RXWRoJrv4K2zw=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GTA 7</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&amp;family=Space+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
+  <style>
+    :root{--ink:#102b2b;--panel:#193b3a;--cream:#f1f1df;--lime:#c9f064}
+    *{box-sizing:border-box}
+    body{margin:0;color:var(--cream);font-family:"DM Sans",sans-serif}
+    .mono{font-family:"Space Mono",monospace}
+    .menu-backdrop{min-height:calc(100 * min(var(--vh, 1vh), 1vh));background:radial-gradient(circle at 75% 25%,#315746,#193b3a 48%,#102b2b)}
+    .game-frame{height:min(66vw,720px);min-height:390px;background:#193b3a;border:1px solid #43605a;box-shadow:0 22px 65px #071e1d60}
+    #game,#game canvas{display:block;width:100%;height:100%;touch-action:none}
+    .pill{border:1px solid #4a6960}
+    button{touch-action:none;transition:filter .15s,transform .15s,background .15s}
+    button:hover{filter:brightness(1.13)}
+    button:active,.pressed{transform:scale(.94)}
+    button:focus-visible{outline:3px solid var(--lime);outline-offset:3px}
+    button[aria-pressed=true]{box-shadow:inset 0 0 0 2px var(--lime)}
+    [hidden]{display:none!important}
+    .loading-orbit{width:72px;height:72px;border:3px solid #6a8b72;border-top-color:var(--lime);border-radius:50%;animation:spin .85s linear infinite}
+    .loading-bar{height:4px;border-radius:10px;background:#44665b;overflow:hidden}
+    .loading-bar>span{display:block;height:100%;width:0;background:var(--lime);transition:width .3s}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @media(max-width:640px){.game-frame{height:480px;min-height:400px}}
+    @media(prefers-reduced-motion:reduce){.loading-orbit{animation-duration:2s}*,*:before,*:after{transition-duration:.01ms!important}}
+  </style>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="/_sdk/3113329134725a95.data_sdk.js" type="text/javascript" integrity="sha512-uIVvSrs96J0aKs+ab+p3+iCIeXz5Uv/5udQ8FBTDggDPfGd9Fz/31fsuHi/YbKf0oOg+2Sd5BnrogNSdq0ZVBA=="></script>
+  <script src="/_sdk/3c884c534998ebc4.editing_sdk.js" type="text/javascript" integrity="sha512-Zc9VBwr5RSFvMKm4eGTIQfrtGBvQ//d/i6V36shMDBqooxbXa7xDMk0W0XTZnOzVvvUXflMtSvqHSFFpDPEU2Q=="></script>
+  <script src="/_sdk/4c94642499997388.resizing_sdk.js" type="text/javascript" integrity="sha512-ZJzt6x5lphhtOGk5zukB4TRH9Kf9jkIl8xB5v5J/SR7ka6doiKh4nKBRUFUfrAt7XLI9OB+XLS+Yb8NNeOUHKQ=="></script>
+ </head>
+ <body data-template-id="__page-root" class="w-full" style="background: rgb(16, 43, 43);">
+  <header id="main-menu" class="menu-backdrop flex w-full items-center justify-center px-5 py-10">
+   <div class="grid w-full max-w-5xl overflow-hidden rounded-[28px] border border-[#43605a] bg-[#193b3a] shadow-2xl md:grid-cols-[1.05fr_.95fr]">
+    <div class="relative min-h-[270px] overflow-hidden md:min-h-[520px]"><img data-template-id="menu-image" class="canva-image h-full w-full object-cover" loading="lazy" src="canva://MAHZ3DWbyc4/1" alt="Orange sports car driving on a winding mountain road">
+     <div class="absolute inset-0 bg-gradient-to-t from-[#102b2b] via-transparent to-transparent"></div><span data-template-id="menu-badge" class="canva-tag mono absolute bottom-5 left-6 rounded-full border border-[#c9f064] bg-[#102b2b]/80 px-3 py-1" style="color: rgb(201, 240, 100); font-weight: 700; font-style: normal; font-size: 12px;">OPEN ROAD / STORY MODE</span>
+    </div>
+    <div class="flex flex-col justify-center p-8 sm:p-12">
+     <p data-template-id="menu-eyebrow" class="canva-tag mono mb-3 uppercase tracking-[.2em]" style="color: rgb(201, 240, 100); font-weight: 700; font-style: normal; font-size: 11px;">3D CITY GAME</p>
+     <h1 data-template-id="menu-title" class="canva-text mb-4 font-extrabold leading-none" style="color: rgb(241, 241, 223); font-weight: 800; font-style: normal; font-size: 48px;">GTA 7</h1>
+     <p data-template-id="menu-description" class="canva-text mb-8 max-w-md leading-relaxed" style="color: rgb(211, 223, 209); font-weight: 400; font-style: normal; font-size: 17px;">Take the wheel, explore the city, and make your own story on the streets.</p><button id="story-button" data-template-id="story-button" type="button" class="canva-button mb-3 w-full rounded-2xl px-5 py-4 text-left font-bold" style="background: rgb(201, 240, 100); color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 20px;">Story →</button> <button id="sandbox-button" data-template-id="sandbox-button" type="button" class="canva-button w-full rounded-2xl border border-[#59736a] px-5 py-4 text-left font-bold" style="background: rgb(24, 60, 56); color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 20px;">Sandbox / TEST →</button>
+     <p data-template-id="menu-note" class="canva-text mono mt-4 uppercase tracking-wider" style="color: rgb(169, 189, 181); font-weight: 400; font-style: normal; font-size: 11px;">Two modes available</p>
+     <p data-template-id="menu-controls" class="canva-text mt-5 leading-relaxed" style="color: rgb(211, 223, 209); font-weight: 400; font-style: normal; font-size: 11px;">W/S MOVE · A/D TURN · E ENTER / EXIT · R/T CAMERA · H HORN · Y LIGHTS · Q/Z SIGNALS · 1–3, 5 WEAPONS · F ATTACK · 4 MENU</p>
+    </div>
+   </div>
+  </header>
+  <section id="loading-screen" class="menu-backdrop flex w-full flex-col items-center justify-center gap-5 px-6 text-center" hidden="" role="status" aria-live="polite">
+   <div class="loading-orbit" aria-hidden="true"></div>
+   <p data-template-id="loading-eyebrow" class="canva-tag mono uppercase tracking-[.25em]" style="color: rgb(201, 240, 100); font-weight: 400; font-style: normal; font-size: 12px;">ENTERING THE CITY</p>
+   <h2 data-template-id="loading-title" class="canva-text font-extrabold" style="color: rgb(241, 241, 223); font-weight: 800; font-style: normal; font-size: 30px;">Building your streets</h2>
+   <p id="loading-status" class="mono text-sm text-[#d3dfd1]">Preparing the scene…</p>
+   <div class="loading-bar w-full max-w-xs" aria-hidden="true">
+    <span id="loading-progress"></span>
+   </div>
+  </section>
+  <main id="game-screen" class="hidden w-full px-4 py-5 sm:px-7 sm:py-7">
+   <div class="mx-auto w-full max-w-7xl">
+    <header class="flex flex-wrap items-start justify-between gap-4 pb-5">
+     <div>
+      <p data-template-id="eyebrow" class="canva-tag mono mb-2 uppercase tracking-[.2em]" style="color: rgb(201, 240, 100); font-weight: 700; font-style: normal; font-size: 11px;">● 3D CITY GAME</p>
+      <h1 data-template-id="game-title" class="canva-text font-extrabold leading-none" style="color: rgb(241, 241, 223); font-weight: 800; font-style: normal; font-size: 32px;">GTA 7</h1>
+      <p data-template-id="game-subtitle" class="canva-text mt-2" style="color: rgb(169, 189, 181); font-weight: 400; font-style: normal; font-size: 16px;">Your streets. Your next ride.</p>
+     </div>
+     <nav class="flex flex-wrap gap-2" aria-label="Game menu"><button id="help-button" data-template-id="help-button" type="button" aria-expanded="false" aria-controls="instructions" class="canva-button pill rounded-xl px-4 py-2 font-semibold" style="color: rgb(241, 241, 223); font-weight: 600; font-style: normal; font-size: 14px;">How to play</button> <button id="menu-button" data-template-id="menu-button" type="button" class="canva-button pill rounded-xl px-4 py-2 font-semibold" style="color: rgb(241, 241, 223); font-weight: 600; font-style: normal; font-size: 14px;">Main menu</button> <button id="restart-button" data-template-id="restart-button" type="button" class="canva-button rounded-xl px-4 py-2 font-bold" style="background: rgb(201, 240, 100); color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 14px;">Restart city</button>
+     </nav>
+    </header>
+    <section id="instructions" class="mb-4 rounded-2xl border border-[#4a6960] bg-[#1e4140] p-4" hidden="">
+     <h2 data-template-id="instructions-heading" class="canva-text font-bold" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 24px;">Find a car. Make the city yours.</h2>
+     <p data-template-id="instructions-body" class="canva-text mt-1 leading-relaxed" style="color: rgb(211, 223, 209); font-weight: 400; font-style: normal; font-size: 14px;">W/S or ↑/↓ move; A/D or ←/→ turn. E, Space, or Get in enters a nearby car. R/T changes view. H honks; Y toggles headlights; Q/Z toggle signals. On foot, choose a weapon with 1–3 or 5 and press F or Attack. In Sandbox, open the spawn menu to add vehicles and switch between day and night.</p>
+    </section>
+    <section id="spawn-menu" class="mb-4 rounded-2xl border border-[#c9f064] bg-[#1e4140] p-4" hidden="" aria-label="Sandbox vehicle menu">
+     <div class="flex items-center justify-between gap-3">
+      <h2 data-template-id="spawn-heading" class="canva-text font-bold" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 24px;">Spawn vehicles</h2><button id="close-spawn" data-template-id="close-spawn" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">Close</button>
+     </div>
+     <p data-template-id="spawn-description" class="canva-text my-3" style="color: rgb(211, 223, 209); font-weight: 400; font-style: normal; font-size: 14px;">Choose a vehicle to park nearby.</p>
+     <div class="flex flex-wrap gap-2"><button data-spawn="civilian" data-template-id="spawn-civilian" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">Civilian</button> <button data-spawn="supercar" data-template-id="spawn-supercar" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">Supercar</button> <button data-spawn="staff" data-template-id="spawn-staff" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">STAFF TESTER</button> <button data-spawn="police" data-template-id="spawn-police" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">Police</button> <button data-spawn="emergency" data-template-id="spawn-emergency" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">EMS</button> <button id="day-night" data-template-id="day-night" type="button" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 16px;">Day / Night</button>
+     </div>
+    </section>
+    <section class="game-frame relative w-full overflow-hidden rounded-[22px]" aria-label="Interactive 3D city game">
+     <div id="game" role="img" aria-label="Three-dimensional city streets, buildings, cars, and pedestrians"></div>
+     <div class="pointer-events-none absolute left-3 top-3 rounded-lg border border-white/10 bg-[#102b2b]/90 px-3 py-2"><span id="status" class="mono text-xs" role="status" aria-live="polite">Walking · Find a car</span>
+     </div>
+     <div class="pointer-events-none absolute right-3 top-3 rounded-lg bg-[#102b2b]/90 p-2 text-right">
+      <div id="view-status" class="mono mb-1 text-xs text-[#c9f064]">
+       THIRD PERSON
+      </div>
+      <canvas id="minimap" width="130" height="130" role="img" aria-label="City minimap showing roads, vehicles, and player" class="rounded-md border border-[#59736a]"></canvas>
+     </div>
+     <div class="absolute bottom-3 left-3 flex flex-wrap items-end gap-2">
+      <div class="rounded-xl border border-white/15 bg-[#102b2b]/90 p-2"><span data-template-id="hotbar-label" class="canva-text mono mb-1 block uppercase" style="color: rgb(201, 240, 100); font-weight: 700; font-style: normal; font-size: 10px;">WEAPONS · 1–3, 5</span>
+       <div class="flex gap-1" role="group" aria-label="Weapons"><button data-weapon="0" type="button" aria-label="Fists" aria-pressed="true" class="pill rounded-lg bg-[#183c38] px-2 py-2">✊ <span data-template-id="weapon-fists" class="canva-text mono" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 10px;">1 FISTS</span></button> <button data-weapon="1" type="button" aria-label="Pistol" aria-pressed="false" class="pill rounded-lg bg-[#183c38] px-2 py-2">⌁ <span data-template-id="weapon-pistol" class="canva-text mono" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 10px;">2 PISTOL</span></button> <button data-weapon="2" type="button" aria-label="Shotgun" aria-pressed="false" class="pill rounded-lg bg-[#183c38] px-2 py-2">▰ <span data-template-id="weapon-shotgun" class="canva-text mono" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 10px;">3 SHOTGUN</span></button> <button data-weapon="3" type="button" aria-label="RPG" aria-pressed="false" class="pill rounded-lg bg-[#183c38] px-2 py-2">➤ <span data-template-id="weapon-rpg" class="canva-text mono" style="color: rgb(241, 241, 223); font-weight: 400; font-style: normal; font-size: 10px;">5 RPG</span></button>
+       </div>
+      </div><button id="attack-button" data-template-id="attack-button" type="button" class="canva-button rounded-xl px-4 py-3 font-bold" style="background: rgb(201, 240, 100); color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 13px;">ATTACK · F</button>
+     </div>
+    </section>
+    <footer class="mt-4 flex flex-wrap items-center justify-between gap-4">
+     <p data-template-id="footer-hint" class="canva-text mono" style="color: rgb(211, 223, 209); font-weight: 400; font-style: normal; font-size: 11px;">W/S MOVE · A/D TURN · E ENTER / EXIT · R/T CAMERA</p>
+     <div class="flex flex-wrap items-center gap-2">
+      <nav class="grid grid-cols-3 gap-1" aria-label="Movement controls"><span></span><button data-direction="up" type="button" aria-label="Move forward" class="rounded-lg bg-[#c9f064] px-4 py-2 font-bold text-[#102b2b]">↑</button><span></span> <button data-direction="left" type="button" aria-label="Turn left" class="rounded-lg bg-[#c9f064] px-4 py-2 font-bold text-[#102b2b]">←</button> <button data-direction="down" type="button" aria-label="Move backward" class="rounded-lg bg-[#c9f064] px-4 py-2 font-bold text-[#102b2b]">↓</button> <button data-direction="right" type="button" aria-label="Turn right" class="rounded-lg bg-[#c9f064] px-4 py-2 font-bold text-[#102b2b]">→</button>
+      </nav><button id="first-button" data-template-id="first-button" type="button" aria-pressed="false" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 14px;">1st · R</button> <button id="third-button" data-template-id="third-button" type="button" aria-pressed="true" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 14px;">3rd · T</button> <button id="lights-button" data-template-id="lights-button" type="button" aria-pressed="false" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 14px;">Lights · Y</button> <button id="left-button" data-template-id="left-button" type="button" aria-pressed="false" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 14px;">Left · Q</button> <button id="right-button" data-template-id="right-button" type="button" aria-pressed="false" class="canva-button pill rounded-xl px-3 py-2" style="color: rgb(241, 241, 223); font-weight: 700; font-style: normal; font-size: 14px;">Right · Z</button> <button id="horn-button" data-template-id="horn-button" type="button" class="canva-button rounded-xl px-3 py-2 font-bold" style="background: rgb(201, 240, 100); color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 14px;">Horn · H</button> <button id="action-button" data-template-id="action-button" type="button" class="canva-button rounded-xl px-4 py-3 font-bold" style="background: rgb(201, 240, 100); color: rgb(16, 43, 43);"><span id="get-in" data-template-id="get-in" class="canva-text" style="color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 13px;">GET IN</span><span id="get-out" data-template-id="get-out" class="canva-text" hidden="" style="color: rgb(16, 43, 43); font-weight: 700; font-style: normal; font-size: 13px;">GET OUT</span></button> <button id="spawn-toggle" data-template-id="spawn-toggle" type="button" class="canva-button pill rounded-xl px-3 py-2" hidden="" style="color: rgb(241, 241, 223); font-weight: 600; font-style: normal; font-size: 14px;">Spawn menu</button>
+     </div>
+    </footer>
+   </div>
+  </main>
+  <script>
+(() => {
+  const $=id=>document.getElementById(id);
+  const host=$('game'),mini=$('minimap'),ctx=mini.getContext('2d');
+  const roads=[-120,-60,0,60,120],limit=148,held=new Set(),cars=[],people=[],projectiles=[];
+  let scene,camera,renderer,sun,ambient,avatar,player,view='third',mode='story',night=false,selected=0,clock=0,last=0,raf=0,ready=false,loading=false,noticeUntil=0,audio;
+  const materials={};
+  const material=(color,metalness=0,roughness=.78)=>new THREE.MeshStandardMaterial({color,metalness,roughness});
+  const box=(parent,w,h,d,x,y,z,mat,cast=false)=>{
+    const mesh=new THREE.Mesh(new THREE.BoxGeometry(w,h,d),mat);
+    mesh.position.set(x,y,z);mesh.castShadow=cast;mesh.receiveShadow=true;parent.add(mesh);return mesh;
+  };
+  const cylinder=(parent,r,h,x,y,z,mat,segments=12)=>{
+    const mesh=new THREE.Mesh(new THREE.CylinderGeometry(r,r,h,segments),mat);
+    mesh.position.set(x,y,z);mesh.castShadow=true;parent.add(mesh);return mesh;
+  };
+  const roundedBody=(parent,w,h,d,x,y,z,mat,scaleY=1)=>{
+    const mesh=new THREE.Mesh(new THREE.CapsuleGeometry(.5,.82,8,20),mat);
+    // CapsuleGeometry is vertical by default; rotate it onto the car's length axis so every panel shares the same chassis orientation.
+    mesh.scale.set(w,h*scaleY,d);mesh.rotation.x=Math.PI/2;
+    mesh.position.set(x,y,z);mesh.castShadow=true;mesh.receiveShadow=true;parent.add(mesh);return mesh;
+  };
+  function showLoading(text,percent){
+    $('loading-status').textContent=text;
+    $('loading-progress').style.width=percent+'%';
+  }
+  const pause=()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)));
+  function disposeScene(){
+    if(raf)cancelAnimationFrame(raf);
+    if(scene){
+      const geometries=new Set(),mats=new Set();
+      scene.traverse(o=>{if(o.isMesh){geometries.add(o.geometry);(Array.isArray(o.material)?o.material:[o.material]).forEach(m=>mats.add(m))}});
+      geometries.forEach(g=>g.dispose());mats.forEach(m=>m.dispose());
+    }
+    if(renderer){renderer.dispose();renderer.domElement.remove()}
+    cars.length=0;people.length=0;projectiles.length=0;held.clear();
+  }
+  function setup(){
+    scene=new THREE.Scene();
+    scene.background=new THREE.Color(0x9dbbc0);
+    scene.fog=new THREE.FogExp2(0x9dbbc0,.005);
+    camera=new THREE.PerspectiveCamera(67,1,.1,410);
+    renderer=new THREE.WebGLRenderer({antialias:true,powerPreference:'high-performance'});
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio||1,1.7));
+    renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;
+    renderer.outputColorSpace=THREE.SRGBColorSpace;
+    renderer.toneMapping=THREE.ACESFilmicToneMapping;
+    renderer.toneMappingExposure=1.28;
+    host.appendChild(renderer.domElement);
+    ambient=new THREE.HemisphereLight(0xe2f0f0,0x445744,2.1);scene.add(ambient);
+    sun=new THREE.DirectionalLight(0xffe9bc,2.7);
+    sun.position.set(-65,100,45);sun.castShadow=true;
+    sun.shadow.mapSize.set(1024,1024);
+    Object.assign(sun.shadow.camera,{left:-180,right:180,top:180,bottom:-180});
+    sun.shadow.bias=-.0003;scene.add(sun);
+    materials.asphalt=material(0x343c3f,0,.94);
+    materials.pavement=material(0xa9aca1,0,.94);
+    materials.grass=material(0x638771);
+    materials.line=material(0xe2c67b);
+    materials.white=material(0xe2e5d8);
+    materials.dark=material(0x202b2d,.24,.45);
+    materials.glass=material(0x4a727b,.32,.18);
+    materials.trunk=material(0x655846);
+    materials.leaves=material(0x386d4e);
+    materials.lamp=new THREE.MeshStandardMaterial({color:0xffe4a2,emissive:0xffdd83,emissiveIntensity:.25});
+    box(scene,330,.25,330,0,-.22,0,materials.grass);
+  }
+  function buildRoads(){
+    for(const p of roads){
+      box(scene,330,.14,19,0,-.035,p,materials.pavement);
+      box(scene,19,.14,330,p,-.035,0,materials.pavement);
+      box(scene,330,.025,14,0,.05,p,materials.asphalt);
+      box(scene,14,.025,330,p,.05,0,materials.asphalt);
+      for(let v=-142;v<145;v+=10){
+        if(roads.some(r=>Math.abs(v-r)<11))continue;
+        box(scene,4,.012,.16,v,.07,p,materials.line);
+        box(scene,.16,.012,4,p,.07,v,materials.line);
+      }
+      for(let v=-116;v<=116;v+=60){
+        for(const s of [-1,1]){
+          const pole=cylinder(scene,.12,6,v+s*9,3,p+9,materials.dark,8);
+          box(scene,1.5,.13,.24,v+s*9+.65,5.8,p+9,materials.dark);
+          const lamp=box(scene,.65,.09,.43,v+s*9+1.3,5.73,p+9,materials.lamp);
+          lamp.userData.streetLamp=true;
+        }
+      }
+    }
+    // Crosswalk stripes and curb bands add readable street detail without heavy geometry.
+    for(const x of roads)for(const z of roads){
+      for(let i=-3;i<=3;i++){
+        box(scene,1.1,.012,2.5,x+i*1.9,.071,z-10,materials.white);
+        box(scene,1.1,.012,2.5,x+i*1.9,.071,z+10,materials.white);
+      }
+    }
+  }
+  const facades=[0x879a92,0xb5ab97,0x9a8880,0x82929b,0xc5b7a2,0x747f7b];
+  function building(x,z,h,w,d,seed){
+    const g=new THREE.Group();g.position.set(x,0,z);scene.add(g);
+    const wall=material(facades[seed%facades.length],0,.87);
+    box(g,w,h,d,0,h/2,0,wall,true);
+    box(g,w+.5,.32,d+.5,0,h+.16,0,materials.dark,true);
+    box(g,w+.25,.35,d+.25,0,.3,0,materials.pavement);
+    // Narrow mullions, inset-looking glass, and floor bands break up broad cuboid faces.
+    const win=material(seed%3===0?0x507177:0x728d8a,.24,.32);
+    for(let floor=2.6;floor<h-1.1;floor+=3.1){
+      box(g,w+.06,.11,d+.06,0,floor-.9,0,materials.pavement);
+      for(let u=-w/2+1.7;u<w/2-1;u+=2.7){
+        box(g,1.2,1.45,.045,u,floor,d/2+.035,win);
+        box(g,1.2,1.45,.045,u,floor,-d/2-.035,win);
+        box(g,.06,1.5,.07,u,floor,d/2+.08,materials.dark);
+      }
+      for(let u=-d/2+1.7;u<d/2-1;u+=2.7){
+        box(g,.045,1.45,1.2,w/2+.035,floor,u,win);
+        box(g,.045,1.45,1.2,-w/2-.035,floor,u,win);
+      }
+    }
+    box(g,2.1,2.5,.1,0,1.45,d/2+.07,materials.glass);
+    if(h>22){
+      box(g,w*.45,.55,d*.42,0,h+.55,0,materials.pavement);
+      box(g,.12,3,.12,w*.25,h+2,0,materials.dark);
+    }
+  }
+  function tree(x,z){
+    const g=new THREE.Group();g.position.set(x,0,z);scene.add(g);
+    cylinder(g,.22,3.1,0,1.55,0,materials.trunk,9);
+    for(const [a,b,c,r] of [[0,4.3,0,2.1],[-1,3.9,.35,1.35],[1,4.15,-.3,1.5]]){
+      const leaf=new THREE.Mesh(new THREE.IcosahedronGeometry(r,1),materials.leaves);
+      leaf.position.set(a,b,c);leaf.castShadow=true;g.add(leaf);
+    }
+  }
+  function buildBlocks(){
+    for(let ix=0;ix<4;ix++)for(let iz=0;iz<4;iz++){
+      const cx=-90+ix*60,cz=-90+iz*60;
+      for(let k=0;k<4;k++){
+        const x=cx+(k%2?13:-13),z=cz+(k>1?13:-13);
+        const h=11+((ix*17+iz*11+k*7)%21);
+        building(x,z,h,17,17,ix+iz*3+k);
+      }
+      if((ix+iz)%2===0)tree(cx,cz);
+    }
+    for(let i=0;i<30;i++){
+      const road=roads[i%5],along=-133+((i*47)%267);
+      if(roads.some(r=>Math.abs(along-r)<13))continue;
+      if(i%2)tree(along,road+11);else tree(road-11,along);
+    }
+  }
+  function person(color){
+    const g=new THREE.Group(),coat=material(color),skin=material(0xc79776),pants=material(0x354044);
+    const torso=new THREE.Mesh(new THREE.CapsuleGeometry(.29,.85,4,8),coat);
+    torso.position.y=1.48;torso.castShadow=true;g.add(torso);
+    const head=new THREE.Mesh(new THREE.SphereGeometry(.28,12,10),skin);
+    head.position.y=2.35;head.castShadow=true;g.add(head);
+    const parts=[];
+    for(const side of [-1,1]){
+      const arm=cylinder(g,.085,.85,side*.39,1.42,0,coat);
+      const leg=cylinder(g,.11,.9,side*.18,.49,0,pants);
+      parts.push(arm,leg);
+    }
+    scene.add(g);return {g,parts};
+  }
+  function makeCar(type,color){
+    const root=new THREE.Group();scene.add(root);
+    const isSports=type==='supercar'||type==='staff',isService=type==='police'||type==='emergency';
+    const length=isService?7.5:isSports?6.8:6.4;
+    const paint=material(color,.38,.25),trim=material(0x161d20,.15,.5),rubber=material(0x171c1e,0,.97);
+    const glass=material(0x355864,.36,.14);
+    // Build the vehicle around one shared chassis so every component stays aligned and grounded.
+    const chassis=roundedBody(root,3.12,.9,length*.96,0,.98,0,paint,.72);
+    const hood=roundedBody(root,2.86,.42,length*.42,0,1.42,length*.25,paint,.7);
+    hood.rotation.x=-.035;
+    const rear=roundedBody(root,2.86,.48,length*.24,0,1.34,-length*.34,paint,.7);
+    const cabin=roundedBody(root,2.38,1.22,isSports?2.42:2.82,0,1.84,-.18,glass,.72);
+    cabin.rotation.x=-.025;
+    roundedBody(root,2.82,.2,length+.12,0,.7,0,trim,.5);
+    roundedBody(root,3.16,.22,.3,0,.94,length/2+.05,trim,.5);
+    roundedBody(root,3.16,.22,.3,0,.94,-length/2-.05,trim,.5);
+    for(const side of [-1,1]){
+      for(const z of [-length*.32,length*.32]){
+        const wheel=new THREE.Mesh(new THREE.CylinderGeometry(.66,.66,.42,20),rubber);
+        wheel.rotation.z=Math.PI/2;wheel.position.set(side*1.58,.66,z);wheel.castShadow=true;root.add(wheel);
+        const hub=new THREE.Mesh(new THREE.CylinderGeometry(.31,.31,.44,16),materials.pavement);
+        hub.rotation.z=Math.PI/2;hub.position.set(side*1.6,.66,z);root.add(hub);
+      }
+      const headlight=roundedBody(root,.38,.2,.12,side*1.34,1.52,length*.38,materials.lamp,.55);
+      headlight.rotation.y=Math.PI/2;
+      const taillight=roundedBody(root,.34,.2,.12,side*1.34,1.48,-length*.43,material(0xb32f31),.55);
+      taillight.rotation.y=Math.PI/2;
+      box(root,.18,.16,.5,side*1.55,1.72,.58,paint);
+    }
+    roundedBody(root,1.75,.22,.16,0,1.25,length*.505,trim,.65);
+    roundedBody(root,.72,.16,.12,0,1.42,length*.51,materials.lamp,.6);
+    if(isSports){
+      box(root,3.05,.16,.34,0,2.3,-length*.42,trim);
+      box(root,.12,.42,.12,-1.25,2.03,-length*.42,trim);
+      box(root,.12,.42,.12,1.25,2.03,-length*.42,trim);
+    }
+    if(isService){
+      const blue=new THREE.MeshStandardMaterial({color:0x3c8aff,emissive:0x3c8aff,emissiveIntensity:0});
+      const red=new THREE.MeshStandardMaterial({color:0xff4545,emissive:0xff4545,emissiveIntensity:0});
+      const bars=[box(root,.85,.24,.52,-.48,2.63,0,red),box(root,.85,.24,.52,.48,2.63,0,blue)];
+      root.userData.bars=bars;
+      box(root,3.3,.26,1.1,0,1.15,-1.5,type==='police'?trim:material(0xd74142));
+    }
+    return root;
+  }
+  function addCar(x,z,angle,type='civilian',parked=true){
+    const colors={civilian:[0xd58d76,0x89aaa7,0xb9a587,0x7b9da4],supercar:[0xe7774d,0xb9ce68],staff:[0xf07b3b],police:[0xe4e9e2],emergency:[0xf1ede3]};
+    const color=colors[type][cars.length%colors[type].length];
+    const car={x,z,angle,type,parked,lights:false,signal:null,root:makeCar(type,color),speed:type==='supercar'||type==='staff'?26:15};
+    cars.push(car);syncCar(car);return car;
+  }
+  function syncCar(c){c.root.position.set(c.x,0,c.z);c.root.rotation.y=c.angle}
+  function buildActors(){
+    player={x:-95,z:-60,angle:Math.PI/2,car:null};
+    avatar=person(0xc9f064);
+    [[-88,-60,0],[-60,-85,Math.PI/2],[18,0,0],[60,33,Math.PI/2],[0,93,0],[-120,34,Math.PI/2]].forEach(([x,z,a],i)=>addCar(x,z,a,i===1?'supercar':i===4?'police':i===5?'emergency':'civilian',i<3));
+    for(let i=0;i<16;i++){
+      const horizontal=i%2===0,road=roads[Math.floor(i/2)%5],along=-105+(i*29)%210;
+      const art=person([0xcc8568,0x7f9baf,0xc6a46d,0x997d99][i%4]);
+      people.push({x:horizontal?along:road+10,z:horizontal?road+10:along,horizontal,dir:i%3?-1:1,art});
+    }
+  }
+  function resize(){
+    if(!renderer)return;
+    const w=host.clientWidth,h=host.clientHeight;
+    if(w&&h){renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix()}
+  }
+  async function start(nextMode){
+    if(loading)return;
+    loading=true;ready=false;mode=nextMode;
+    $('main-menu').hidden=true;$('game-screen').classList.add('hidden');
+    $('loading-screen').hidden=false;
+    showLoading('Preparing the scene…',8);
+    await pause();
+    try{
+      disposeScene();setup();showLoading('Laying out the streets…',28);await pause();
+      buildRoads();showLoading('Adding buildings and greenery…',58);await pause();
+      buildBlocks();showLoading('Bringing the city to life…',82);await pause();
+      buildActors();view='third';night=false;clock=0;selected=0;
+      $('spawn-toggle').hidden=mode!=='sandbox';$('spawn-menu').hidden=true;
+      $('game-screen').classList.remove('hidden');resize();syncUI();
+      camera.position.set(player.x-8,7,player.z-8);draw();
+      showLoading('Ready to explore',100);
+      await pause();
+      $('loading-screen').hidden=true;ready=true;loading=false;last=performance.now();
+      raf=requestAnimationFrame(frame);
+      message(mode==='sandbox'?'Sandbox / TEST · Explore freely':'Walking · Find a car');
+    }catch(error){
+      loading=false;showLoading('The city could not load. Choose a mode to try again.',0);
+      $('loading-screen').hidden=true;$('main-menu').hidden=false;
+    }
+  }
+  function message(text){$('status').textContent=text;noticeUntil=clock+2.4}
+  function nearestCar(){
+    let found=null,best=7;
+    for(const c of cars){
+      if(c.type==='police'||c.type==='emergency')continue;
+      const d=Math.hypot(player.x-c.x,player.z-c.z);
+      if(d<best){found=c;best=d}
+    }
+    return found;
+  }
+  function syncUI(){
+    $('get-in').hidden=!!player.car;$('get-out').hidden=!player.car;
+    $('view-status').textContent=view==='first'?'FIRST PERSON':'THIRD PERSON';
+    $('first-button').setAttribute('aria-pressed',String(view==='first'));
+    $('third-button').setAttribute('aria-pressed',String(view==='third'));
+    $('lights-button').setAttribute('aria-pressed',String(!!player.car?.lights));
+    $('left-button').setAttribute('aria-pressed',String(player.car?.signal==='left'));
+    $('right-button').setAttribute('aria-pressed',String(player.car?.signal==='right'));
+    $('attack-button').disabled=!!player.car;
+    document.querySelectorAll('[data-weapon]').forEach(b=>b.setAttribute('aria-pressed',String(+b.dataset.weapon===selected)));
+  }
+  function action(){
+    if(!ready)return;
+    if(player.car){
+      const c=player.car;
+      const x=c.x+Math.cos(c.angle)*4,z=c.z-Math.sin(c.angle)*4;
+      if(Math.abs(x)>limit||Math.abs(z)>limit){message('No room to get out here');return}
+      player.x=x;player.z=z;player.car=null;c.parked=true;message('Walking · Find a car');
+    }else{
+      const c=nearestCar();
+      if(!c){message('Move closer to a car');return}
+      player.car=c;c.parked=false;player.x=c.x;player.z=c.z;player.angle=c.angle;
+      message('You are driving');
+    }
+    syncUI();
+  }
+  function beep(){
+    if(!player.car){message('Get in a car to use the horn');return}
+    try{
+      audio=audio||new (window.AudioContext||window.webkitAudioContext)();
+      audio.resume();
+      const o=audio.createOscillator(),gain=audio.createGain();
+      o.type='sawtooth';o.frequency.value=310;
+      gain.gain.setValueAtTime(.035,audio.currentTime);
+      gain.gain.exponentialRampToValueAtTime(.0001,audio.currentTime+.23);
+      o.connect(gain);gain.connect(audio.destination);o.start();o.stop(audio.currentTime+.24);
+    }catch(e){}
+    message('Beep beep!');
+  }
+  function lights(){
+    if(!player.car){message('Get in a car to use headlights');return}
+    player.car.lights=!player.car.lights;syncUI();message(player.car.lights?'Headlights on':'Headlights off');
+  }
+  function signal(side){
+    if(!player.car){message('Get in a car to use blinkers');return}
+    player.car.signal=player.car.signal===side?null:side;syncUI();
+    message(player.car.signal?side+' blinker on':'Blinker off');
+  }
+  function attack(){
+    if(!ready||player.car)return;
+    const names=['FISTS','PISTOL','SHOTGUN','RPG'],ranges=[3.5,44,25,68];
+    const fx=Math.sin(player.angle),fz=Math.cos(player.angle);
+    const target=cars.find(c=>c.type==='police'&&Math.hypot(c.x-player.x,c.z-player.z)<ranges[selected]&&
+      (c.x-player.x)*fx+(c.z-player.z)*fz>0);
+    if(target){
+      const flash=new THREE.Mesh(new THREE.SphereGeometry(selected===3?1.2:.35,10,8),
+        new THREE.MeshBasicMaterial({color:selected===3?0xffb456:0xffe7a1,transparent:true,opacity:.85}));
+      flash.position.set(target.x,1.3,target.z);scene.add(flash);
+      projectiles.push({mesh:flash,age:0});
+      message(names[selected]+' hit a police vehicle');
+    }else message(names[selected]+' · No target in range');
+  }
+  function spawn(type){
+    if(!ready||mode!=='sandbox')return;
+    const x=player.x+Math.sin(player.angle)*7,z=player.z+Math.cos(player.angle)*7;
+    if(Math.abs(x)>limit||Math.abs(z)>limit){message('Move away from the city edge');return}
+    addCar(x,z,player.angle,type,true);
+    $('spawn-menu').hidden=true;message(type.toUpperCase()+' spawned nearby');
+  }
+  function map(){
+    const s=mini.width,to=v=>s/2+v*s/300;
+    ctx.fillStyle='#183c38';ctx.fillRect(0,0,s,s);
+    ctx.strokeStyle='#789084';ctx.lineWidth=4;
+    for(const r of roads){
+      ctx.beginPath();ctx.moveTo(0,to(r));ctx.lineTo(s,to(r));ctx.stroke();
+      ctx.beginPath();ctx.moveTo(to(r),0);ctx.lineTo(to(r),s);ctx.stroke();
+    }
+    cars.forEach(c=>{ctx.fillStyle=c.type==='police'?'#f36c68':'#c9f064';ctx.fillRect(to(c.x)-2,to(c.z)-2,4,4)});
+    ctx.fillStyle='#fff';ctx.beginPath();ctx.arc(to(player.x),to(player.z),3.3,0,Math.PI*2);ctx.fill();
+  }
+  function update(dt){
+    clock+=dt;
+    const forward=Number(held.has('w')||held.has('ArrowUp'))-Number(held.has('s')||held.has('ArrowDown'));
+    const steer=Number(held.has('a')||held.has('ArrowLeft'))-Number(held.has('d')||held.has('ArrowRight'));
+    player.angle+=steer*(player.car?1.75:2.5)*dt;
+    const step=forward*(player.car?player.car.speed:8)*dt;
+    const x=player.x+Math.sin(player.angle)*step,z=player.z+Math.cos(player.angle)*step;
+    if(Math.abs(x)<limit)player.x=x;
+    if(Math.abs(z)<limit)player.z=z;
+    if(player.car){Object.assign(player.car,{x:player.x,z:player.z,angle:player.angle});syncCar(player.car)}
+    avatar.g.visible=!player.car&&view==='third';
+    avatar.g.position.set(player.x,0,player.z);avatar.g.rotation.y=player.angle;
+    const gait=forward?Math.sin(clock*10)*.35:0;
+    avatar.parts[1].rotation.x=gait;avatar.parts[3].rotation.x=-gait;
+    for(const p of people){
+      if(p.horizontal){p.x+=p.dir*dt*1.5;if(Math.abs(p.x)>137)p.dir*=-1}
+      else{p.z+=p.dir*dt*1.5;if(Math.abs(p.z)>137)p.dir*=-1}
+      p.art.g.position.set(p.x,0,p.z);
+      p.art.g.rotation.y=p.horizontal?(p.dir>0?Math.PI/2:-Math.PI/2):(p.dir>0?0:Math.PI);
+      p.art.parts[1].rotation.x=Math.sin(clock*7+p.x)*.35;
+      p.art.parts[3].rotation.x=-p.art.parts[1].rotation.x;
+    }
+    cars.forEach(c=>{
+      if(!c.parked&&c!==player.car){
+        c.x+=Math.sin(c.angle)*c.speed*dt*.55;
+        c.z+=Math.cos(c.angle)*c.speed*dt*.55;
+        if(Math.abs(c.x)>limit||Math.abs(c.z)>limit)c.angle+=Math.PI;
+        syncCar(c);
+      }
+      if(c.root.userData.bars)c.root.userData.bars.forEach((b,i)=>b.material.emissiveIntensity=
+        Math.floor(clock*5)%2===i?1.2:.05);
+    });
+    for(let i=projectiles.length-1;i>=0;i--){
+      const p=projectiles[i];p.age+=dt;p.mesh.scale.setScalar(1+p.age*4);p.mesh.material.opacity=Math.max(0,.85-p.age*2);
+      if(p.age>.42){scene.remove(p.mesh);p.mesh.geometry.dispose();p.mesh.material.dispose();projectiles.splice(i,1)}
+    }
+    if(clock>noticeUntil)$('status').textContent=player.car?'Driving · Y headlights':nearestCar()?'Car nearby · E to get in':'Walking · Find a car';
+    map();
+  }
+  const desired=new THREE.Vector3(),look=new THREE.Vector3();
+  function draw(){
+    if(!renderer||!player)return;
+    const fx=Math.sin(player.angle),fz=Math.cos(player.angle);
+    if(view==='first'){
+      desired.set(player.x+fx*.4,player.car?2.25:2,player.z+fz*.4);
+      look.set(player.x+fx*20,player.car?2.2:1.9,player.z+fz*20);
+    }else{
+      desired.set(player.x-fx*(player.car?12:7),player.car?7:5.5,player.z-fz*(player.car?12:7));
+      look.set(player.x,1.4,player.z);
+    }
+    camera.position.lerp(desired,.19);camera.lookAt(look);
+    const color=new THREE.Color(night?0x101f36:0x9dbbc0);
+    scene.background.copy(color);scene.fog.color.copy(color);
+    ambient.intensity=night?.65:2.1;sun.intensity=night?.25:2.7;
+    materials.lamp.emissiveIntensity=night?2:.25;
+    if(player.car)player.car.root.visible=view!=='first';
+    renderer.render(scene,camera);
+    if(player.car)player.car.root.visible=true;
+  }
+  function frame(now){
+    if(!ready)return;
+    const dt=Math.min((now-last)/1000,.045);last=now;
+    if(!document.hidden)update(dt);
+    draw();raf=requestAnimationFrame(frame);
+  }
+  function goMenu(){
+    ready=false;if(raf)cancelAnimationFrame(raf);
+    held.clear();$('game-screen').classList.add('hidden');
+    $('spawn-menu').hidden=true;$('main-menu').hidden=false;
+  }
+  $('story-button').addEventListener('click',()=>start('story'));
+  $('sandbox-button').addEventListener('click',()=>start('sandbox'));
+  $('restart-button').addEventListener('click',()=>start(mode));
+  $('menu-button').addEventListener('click',goMenu);
+  $('help-button').addEventListener('click',e=>{
+    $('instructions').hidden=!$('instructions').hidden;
+    e.currentTarget.setAttribute('aria-expanded',String(!$('instructions').hidden));
+  });
+  $('action-button').addEventListener('click',action);
+  $('horn-button').addEventListener('click',beep);
+  $('lights-button').addEventListener('click',lights);
+  $('left-button').addEventListener('click',()=>signal('left'));
+  $('right-button').addEventListener('click',()=>signal('right'));
+  $('attack-button').addEventListener('click',attack);
+  $('first-button').addEventListener('click',()=>{view='first';syncUI()});
+  $('third-button').addEventListener('click',()=>{view='third';syncUI()});
+  $('spawn-toggle').addEventListener('click',()=>{$('spawn-menu').hidden=!$('spawn-menu').hidden});
+  $('close-spawn').addEventListener('click',()=>{$('spawn-menu').hidden=true});
+  $('day-night').addEventListener('click',()=>{night=!night;message(night?'Night mode':'Day mode')});
+  document.querySelectorAll('[data-spawn]').forEach(b=>b.addEventListener('click',()=>spawn(b.dataset.spawn)));
+  document.querySelectorAll('[data-weapon]').forEach(b=>b.addEventListener('click',()=>{
+    selected=+b.dataset.weapon;syncUI();message(['FISTS','PISTOL','SHOTGUN','RPG'][selected]+' selected');
+  }));
+  document.querySelectorAll('[data-direction]').forEach(b=>{
+    const key={up:'ArrowUp',down:'ArrowDown',left:'ArrowLeft',right:'ArrowRight'}[b.dataset.direction];
+    b.addEventListener('pointerdown',e=>{e.preventDefault();b.setPointerCapture(e.pointerId);held.add(key);b.classList.add('pressed')});
+    const release=()=>{held.delete(key);b.classList.remove('pressed')};
+    ['pointerup','pointercancel','lostpointercapture'].forEach(event=>b.addEventListener(event,release));
+  });
+  window.addEventListener('keydown',e=>{
+    if(!ready||e.target instanceof HTMLButtonElement||e.target instanceof HTMLInputElement)return;
+    const key=e.key.length===1?e.key.toLowerCase():e.key;
+    if(['w','a','s','d','ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(key)){
+      e.preventDefault();held.add(key);
+    }
+    if(e.repeat)return;
+    if(key==='e'||e.code==='Space'){e.preventDefault();action()}
+    else if(key==='r'){view='first';syncUI()}
+    else if(key==='t'){view='third';syncUI()}
+    else if(key==='h')beep();
+    else if(key==='y')lights();
+    else if(key==='q')signal('left');
+    else if(key==='z')signal('right');
+    else if(key==='f')attack();
+    else if(key==='4')goMenu();
+    else if(['1','2','3','5'].includes(key)){
+      selected=key==='5'?3:Number(key)-1;syncUI();
+    }
+  });
+  window.addEventListener('keyup',e=>held.delete(e.key.length===1?e.key.toLowerCase():e.key));
+  window.addEventListener('blur',()=>{held.clear();document.querySelectorAll('.pressed').forEach(b=>b.classList.remove('pressed'))});
+  window.addEventListener('resize',resize);
+})();
+</script>
+ 
+</body></html>
